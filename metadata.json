@@ -1,0 +1,5 @@
+{
+  "name": "Game AI Companion",
+  "description": "An AI that watches your screen while you play games and acts as a character.",
+  "requestFramePermissions": ["microphone", "camera", "display-capture"]
+}
